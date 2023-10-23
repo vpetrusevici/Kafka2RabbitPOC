@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kafka2rabbitPOC", "kafka2rabbitPOC\kafka2rabbitPOC.csproj", "{09B247E6-5A5E-4ECA-B3CF-BD51AC15BABD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{BF1BCEB5-0FDD-4117-88B2-2729A48520EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{09B247E6-5A5E-4ECA-B3CF-BD51AC15BABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{09B247E6-5A5E-4ECA-B3CF-BD51AC15BABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{09B247E6-5A5E-4ECA-B3CF-BD51AC15BABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{09B247E6-5A5E-4ECA-B3CF-BD51AC15BABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF1BCEB5-0FDD-4117-88B2-2729A48520EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF1BCEB5-0FDD-4117-88B2-2729A48520EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF1BCEB5-0FDD-4117-88B2-2729A48520EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF1BCEB5-0FDD-4117-88B2-2729A48520EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
